@@ -1,0 +1,90 @@
+{
+    "Hero": [{
+            "_id": "asd1293uasdads6",
+            "imageUrl": "/img/hero-1.jpg"
+        },
+        {
+            "_id": "asd1293uasdads7",
+            "imageUrl": "/img/hero-2.jpg"
+        },
+        {
+            "_id": "asd1293uasdads8",
+            "imageUrl": "/img/hero-3.jpg"
+        }
+    ],
+    "Product": [{
+            "_id": "asd1293uasdads9",
+            "imageUrl": "img/products/women-1.jpg",
+            "price": "34.00",
+            "name": "Mickey Baggy"
+        },
+        {
+            "_id": "asd1293uasdads10",
+            "imageUrl": "img/products/women-2.jpg",
+            "price": "14.00",
+            "name": "Guangzhou sweater"
+        }, {
+            "_id": "asd1293uasdads11",
+            "imageUrl": "img/products/women-3.jpg",
+            "price": "31.00",
+            "name": "Converse Shoes"
+        },
+        {
+            "_id": "asd1293uasdads12",
+            "imageUrl": "img/products/women-4.jpg",
+            "price": "11.00",
+            "name": "Pure Pineapple"
+        }
+    ],
+    "GaleryIG": [{
+            "_id": "asd1293uasdads13",
+            "imageUrl": "/img/insta-1.jpg",
+            "name": "shayna_gallery"
+        },
+        {
+            "_id": "asd1293uasdads14",
+            "imageUrl": "/img/insta-2.jpg",
+            "name": "shayna_gallery"
+        },
+        {
+            "_id": "asd1293uasdads15",
+            "imageUrl": "/img/insta-3.jpg",
+            "name": "shayna_gallery"
+        },
+        {
+            "_id": "asd1293uasdads16",
+            "imageUrl": "/img/insta-4.jpg",
+            "name": "shayna_gallery"
+        },
+        {
+            "_id": "asd1293uasdads17",
+            "imageUrl": "/img/insta-5.jpg",
+            "name": "shayna_gallery"
+        }, {
+            "_id": "asd1293uasdads18",
+            "imageUrl": "/img/insta-6.jpg",
+            "name": "shayna_gallery"
+        }
+    ],
+    "Partner": [{
+            "_id": "asd1293uasdads13",
+            "imageUrl": "/img/logo-carousel/logo-1.png"
+        },
+        {
+            "_id": "asd1293uasdads2",
+            "imageUrl": "/img/logo-carousel/logo-2.png"
+        },
+        {
+            "_id": "asd1293uasdads3",
+            "imageUrl": "/img/logo-carousel/logo-3.png"
+        },
+        {
+            "_id": "asd1293uasdads4",
+            "imageUrl": "/img/logo-carousel/logo-4.png"
+        },
+        {
+            "_id": "asd1293uasdads5",
+            "imageUrl": "/img/logo-carousel/logo-5.png"
+        }
+    ]
+}
